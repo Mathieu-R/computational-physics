@@ -1,6 +1,6 @@
 # computational-physics
 
-Jupyter Notebooks contenant différentes méthodes numériques utiles en physique et ingénieurie.
+Jupyter Notebooks contenant différentes méthodes numériques utiles en physique et ingénieurie.    
 Les notebooks sont disponibles dans le dossier "notebooks".
 
 1) [Equation différentielles ordinaires (EDO)](https://github.com/Mathieu-R/computational-physics/blob/master/notebooks/ordinary_differentials_equations.ipynb) 
