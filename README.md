@@ -1,11 +1,13 @@
 # computational-physics
+
+## Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mathieu-R/computational-physics/HEAD)
 Jupyter Notebooks contenant différentes méthodes numériques utiles en physique.    
-Les notebooks sont disponibles dans le dossier "notebooks".
+Les notebooks sont disponibles dans le dossier "python/notebooks".
 
 ### Installer jupyter 
 Selon votre choix, vous pouvez installer jupyter lab ou jupyter notebook.
 ```bash
-$ python3-m pip install jupyterlab # jupyter lab
 $ python3-m pip install notebook # jupyter notebook
 ```
 
@@ -30,7 +32,6 @@ $ pip3 install numpy matplotlib scipy
 
 ### Lancer jupyter
 ```bash
-$ jupyter lab # lab
 $ jupyer notebook # ou notebook
 ```
 
@@ -39,5 +40,5 @@ $ jupyer notebook # ou notebook
 $ jupyter kernelspec uninstall myenv
 ```
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mathieu-R/computational-physics/HEAD)
+## C++
+Basé sur le livre : "A practical introduction to computational physics and scientific computing (using C++)"
